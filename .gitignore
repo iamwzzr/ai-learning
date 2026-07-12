@@ -20,3 +20,5 @@ datasets/
 
 # IDE
 .vscode/
+
+.venv/
