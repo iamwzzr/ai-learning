@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Machine learning models
+*.pth
+*.pt
+*.ckpt
+
+# Dataset
+data/
+datasets/
+
+# IDE
+.vscode/
